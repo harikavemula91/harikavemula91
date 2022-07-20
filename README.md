@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harikavemula91
 - 👀 I’m interested in Data Science, Machine learning and Artificial Intelligence
-- 🌱 I’m currently learning the same
+- 🌱 I’m currently working on getting some hands-on in this field
 - 💞️ I’m looking to collaborate on working and building projects 
 - 📫 harika.vemula11@gmail.com
 
